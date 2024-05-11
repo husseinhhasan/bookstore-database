@@ -12,7 +12,3 @@ This section details the setup process for MongoDB on Azure Cosmos DB, as part o
    - Use MongoDB Compass Desktop application to connect to the created Azure Cosmos DB for MongoDB instance.
    - Upload the data to the MongoDB instance, in this case, a book collection named 'bookstore'.
 
-## Screenshots
-![MongoDB Setup](screenshots/mongodb_setup.png)
-
-
